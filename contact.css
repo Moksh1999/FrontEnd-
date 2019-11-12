@@ -1,0 +1,43 @@
+body
+{
+  margin-left: 40px;
+}
+
+#p01
+{
+  margin-left: 40px;
+  color: skyblue;
+  font-size: 60px;
+}
+
+.topnav
+		{
+			margin-left: 27px;
+            border-top: 1px solid lightgrey;
+
+
+		}
+		.topnav a {
+			float:left;
+			display: block;
+			text-align: center;
+			color:skyblue;
+  padding: 18px 12px;
+   text-decoration: none;
+
+}
+
+h2
+{
+  margin-left: 40px;
+}
+
+p
+{
+  margin-left: 40px;
+}
+
+#p02
+{
+  color: skyblue;
+}

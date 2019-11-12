@@ -1,0 +1,48 @@
+.topnav
+		{
+			margin-left: 27px;
+            border-top: 1px solid lightgrey;
+
+
+		}
+		.topnav a {
+			float:left;
+			display: block;
+			text-align: center;
+			color:skyblue;
+  padding: 18px 12px;
+   text-decoration: none;
+
+}
+
+h1
+{
+margin-left: 40px;
+color:skyblue;
+}
+
+h2
+{
+margin-left: 40px;
+}
+
+table,tr,td
+{
+margin-left:40px;
+}
+
+#p01
+{
+color: skyblue;
+}
+
+#p00
+{
+color: skyblue;
+font-size: 60px;
+margin-left: 40px;
+}
+
+body{
+margin-left: 40px;
+}
